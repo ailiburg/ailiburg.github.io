@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ailiburg.github.io/sitemap
+Sitemap: https://ailiburg.github.io/app/sitemap
+Sitemap: https://ailiburg.github.io/assets/sitemap
+Sitemap: https://ailiburg.github.io/css/sitemap
+Sitemap: https://ailiburg.github.io/includes/sitemap
+Sitemap: https://ailiburg.github.io/item/sitemap
+Sitemap: https://ailiburg.github.io/src/sitemap
